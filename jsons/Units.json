@@ -1,0 +1,34 @@
+[
+  {
+		"name": "Templar Knight",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Knights Templar",
+		"movement": 5,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+30]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+    "promotions": ["Shock I", "Quick Study"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Templar Crossbowman",
+		"unitType": "Archery",
+		"replaces": "Crossbowman",
+		"uniqueTo": "Knights Templar",
+		"movement": 3,
+		"strength": 18,
+		"rangedStrength": 22,
+		"uniques": ["Earn [50]% of the damage done to [City] units as [Faith]"]
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+    "promotions": ["Quick Study", "Accuracy I"],
+		"attackSound": "crossbow"
+	},
+]
