@@ -19,7 +19,7 @@
     
     "favoredReligion": "Christianity",
     "uniqueName":"Holy Crusade",
-    "uniques": ["[+50]% Strength <for [All] units> <when above [250] [Faith]>","[+30]% Strength <for [All] units> <during the [Medieval era]>","Empire enters golden age <upon founding a Religion>","[+50]% of excess happiness converted to [Faith]","[-15]% Strength <for [All] units> <when below [50] [Faith]>","[+4 Production] [in all cities]"],
+    "uniques": ["[+50]% Strength <for [All] units> <when above [250] [Faith]>","[+30]% Strength <for [All] units> <during the [Medieval era]>","Empire enters golden age <upon founding a Religion>","[+50]% of excess happiness converted to [Faith]","[-15]% Strength <for [All] units> <when below [50] [Faith]>","[+8 Production ,+4 Happiness ,+6 Culture] [in all cities]"],
 
 
 	"cities": [
