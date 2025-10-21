@@ -12,7 +12,7 @@
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+30]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-    "promotions": ["Shock I", "Quick Study", "Shock II"],
+    "promotions": ["Shock I","Quick Study","Shock II"],
 		"attackSound": "horse"
 	},
 	{
@@ -28,7 +28,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-    "promotions": ["Quick Study", "Accuracy I"],
+    "promotions": ["Quick Study","Accuracy I","Accuracy II"],
 		"attackSound": "crossbow"
 	},
 ]
