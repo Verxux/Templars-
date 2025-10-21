@@ -12,7 +12,7 @@
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+30]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-    "promotions": ["Shock I", "Quick Study"],
+    "promotions": ["Shock I", "Quick Study", "Shock II"],
 		"attackSound": "horse"
 	},
 	{
@@ -20,7 +20,7 @@
 		"unitType": "Archery",
 		"replaces": "Crossbowman",
 		"uniqueTo": "Knights Templar",
-		"movement": 3,
+		"movement": 4,
 		"strength": 18,
 		"rangedStrength": 22,
 		"uniques": ["Earn [50]% of the damage done to [City] units as [Faith]"]
